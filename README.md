@@ -5,6 +5,6 @@ Have a nice day!
 
 
 Installation guide:(for Linux only)
-1. Download: git clone https://github.com/lamtranBKHN/MAIT2020Tools/
+1. git clone https://github.com/lamtranBKHN/MAIT2020Tools/
 2. cd MAIT2020Tools
 3. bash "installationFile".sh 
