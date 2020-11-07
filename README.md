@@ -8,3 +8,8 @@ Installation guide:(for Linux only)
 1. git clone https://github.com/lamtranBKHN/MAIT2020Tools/
 2. cd MAIT2020Tools
 3. bash "installationFile".sh 
+
+Update: I have already made an 'all in one' installation script that you just have to run one script.
+1. git clone https://github.com/lamtranBKHN/MAIT2020Tools/
+2. cd MAIT2020Tools
+3. bash allInOnInstallationTool.sh
