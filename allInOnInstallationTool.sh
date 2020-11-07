@@ -7,6 +7,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt-get update
 sudo apt-get upgrade
+sudo apt clean
 sudo apt auto-remove
 sudo apt install gcc
 sudo apt install git
